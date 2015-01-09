@@ -1,0 +1,6 @@
+commons-logging-1.1.1.jar
+commons-logging-api-1.0.4.jar
+gson-2.2.4.jar
+hive-exec-0.11.0.jar
+hive-exec-0.12.0.jar
+hive-exec-0.8.1.jar
